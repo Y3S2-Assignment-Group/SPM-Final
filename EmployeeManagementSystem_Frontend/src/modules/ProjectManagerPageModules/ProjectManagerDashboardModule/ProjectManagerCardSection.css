@@ -1,0 +1,44 @@
+.pmDashboardCardOne{
+    min-height: 200px;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.pmDashboardCardTwo{
+    min-height: 200px;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.pmDashboardCardThree{
+    min-height: 200px;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.employeeDashboardCard{
+    border-radius: 20px;
+}
+
+.employeeDashboardCardText{
+    margin-top: 5%;
+    color: #000000;
+    line-height: 50%;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.employeeDashboardCard {
+    padding-top: 8%;
+    padding-left: 5px;
+    padding-right: 5px;
+    transition: all 0.4s ease-in-out;
+}
+
+.employeeDashboardCard:hover {
+    transform: scale(1.05);
+}
+  

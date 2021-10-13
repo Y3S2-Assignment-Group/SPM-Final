@@ -1,0 +1,40 @@
+.employeeDashboardCardOne{
+    background-image: url("../../../assets/EmployeeDashboard/3.png");
+    min-height: 200px;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.employeeDashboardCardTwo{
+    background-image: url("../../../assets/EmployeeDashboard/5.png");
+    min-height: 200px;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.employeeDashboardCardThree{
+    background-image: url("../../../assets/EmployeeDashboard/1.png");
+    min-height: 200px;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.employeeDashboardCard{
+    border-radius: 20px;
+}
+
+
+.employeeDashboardCard {
+    padding-top: 8%;
+    padding-left: 5px;
+    padding-right: 5px;
+    transition: all 0.4s ease-in-out;
+}
+
+.employeeDashboardCard:hover {
+    transform: scale(1.05);
+}
+  

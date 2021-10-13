@@ -1,0 +1,17 @@
+.webcam {
+  width: 450px;
+}
+
+.webcamBtn{
+    background-color: #087E8B;
+    border-radius: 17px;
+    min-width: 100px;
+    color: #FFFFFF;
+    margin: 5px;
+}
+
+@media screen and (max-width: 440px) {
+  .webcam {
+    width: 300px;
+  }
+}

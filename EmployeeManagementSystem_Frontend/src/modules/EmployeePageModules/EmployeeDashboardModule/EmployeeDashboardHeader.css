@@ -1,0 +1,9 @@
+.empDashboardUserDetailsColOne{
+    text-align: center;
+}
+
+@media screen and (max-width: 500px) {
+    .empDashboardUserDetailsTwo{
+       text-align: center;
+    }
+}

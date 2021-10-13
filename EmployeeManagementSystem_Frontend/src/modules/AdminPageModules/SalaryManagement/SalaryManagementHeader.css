@@ -1,0 +1,14 @@
+.searchTab .search-container {
+  float: right;
+}
+
+.searchTab input[type=text] {
+  padding: 4px;
+  border: none;
+}
+
+@media screen and (max-width: 450px) {
+.SalaryManagementHeader{
+    text-align: center;
+}
+}

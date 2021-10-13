@@ -1,0 +1,18 @@
+.empProjectCards{
+    background-color: #f5f5f5;
+    color: #000000;
+}
+
+.empProjectCardsText {
+    color: #087E8B;
+}
+
+.empProjectCards {
+    transition: all 0.4s ease-in-out;
+    cursor: pointer;
+}
+
+.empProjectCards:hover {
+    transform: scale(1.05);
+}
+  

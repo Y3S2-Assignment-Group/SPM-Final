@@ -1,0 +1,50 @@
+.projectDashboardCardOne{
+    background-image: url("../../../assets/ProjectDashboard/3.png");
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.projectDashboardCardTwo{
+    background-image: url("../../../assets/ProjectDashboard/2.png");
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.projectDashboardCardThree{
+    background-image: url("../../../assets/ProjectDashboard/4.png");
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.projectDashboardCardFour{
+    background-image: url("../../../assets/ProjectDashboard/1.png");
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+.projectDashboardCard{
+    border-radius: 20px;
+}
+
+.projectDashboardCardText{
+    margin-top: 5%;
+    color: rgb(71, 9, 18);
+    line-height: 50%;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.projectDashboardCard {
+    padding-top: 8%;
+    padding-left: 5px;
+    padding-right: 5px;
+    transition: all 0.4s ease-in-out;
+}
+
+.projectDashboardCard:hover {
+    transform: scale(1.05);
+}

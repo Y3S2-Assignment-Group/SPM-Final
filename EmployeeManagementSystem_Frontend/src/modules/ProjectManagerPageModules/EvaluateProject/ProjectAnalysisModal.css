@@ -1,0 +1,15 @@
+.feedbackicon{
+    font-size: 50px;
+}
+
+.smileicon{
+    color: green;
+}
+
+.sadicon{
+    color: red;
+}
+
+.neutralicon{
+    color: goldenrod;
+}
